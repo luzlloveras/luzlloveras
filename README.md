@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Nest Authorization Project](https://github.com/luzlloveras/nest--auth-project.git)
 
-- 💪🏻 I am training in JavaScript for the backend **Node.js, Nest.js, Restful APIs, Auth & Security, Error Handling, Data validation, Unit testing, Sockets, Webhooks and events, Cache and performance, hosting and serveless.**
+- 💪🏻 I am training in JavaScript for the backend with **Node.js, Nest.js, Restful APIs, Auth & Security, Error Handling, Data validation, Unit testing, Sockets, Webhooks and events, Cache and performance, hosting and serveless.**
 
-- 🌱 I’m currently learning [JavaScript Professional Course](https://github.com/luzlloveras/JavaScriptCursoProfesional.git)
+- 🌱 I’m currently learning [JavaScript](https://github.com/luzlloveras/JavaScriptCursoProfesional.git)
 
 - 🤓 I’m looking to study more on [Mongo DB](https://github.com/luzlloveras/mongo-db-project.git)
 
