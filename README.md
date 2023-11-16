@@ -9,7 +9,7 @@
 
 - 🤓 I’m looking to study more on [Mongo DB](https://github.com/luzlloveras/mongo-db-project.git)
 
-- 💬 Ask me about [Art, Photography and Design. I really love it.](Art, Photography and Design. I really love it.)
+- 💬 Ask me about Art, Photography and Design. I really love it.
 
 - 📷 Some of my photography projects are available at [behance.net/luzlloveras](behance.net/luzlloveras)
 
