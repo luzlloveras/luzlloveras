@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **luzlloveras7@gmail.com**
 
-- ⚡ Fun fact [I love cats but I am allergic to them 😿](I love cats but I am allergic to them 😿)
+- ⚡ Fun fact: I love cats but I am allergic to them 😿
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
