@@ -5,9 +5,9 @@
 
 - 💪🏻 I am training in JavaScript for the backend with **Node.js, Nest.js, Restful APIs, Auth & Security, Error Handling, Data validation, Unit testing, Sockets, Webhooks and events, Cache and performance, hosting and serveless.**
 
-- 🌱 I’m currently learning [JavaScript Professional Course](https://github.com/luzlloveras/JavaScriptCursoProfesional.git)
+- 🌱 I’m currently learning JavaScript.
 
-- 🤓 I’m looking to study more on [Mongo DB](https://github.com/luzlloveras/mongo-db-project.git)
+- 🤓 I’m looking to study more on Mongo DB.
 
 - 💬 Ask me about Art, Photography and Design. I really love it.
 
