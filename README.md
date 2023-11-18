@@ -3,19 +3,17 @@
 
 - 🔭 I’m currently working on [Nest Authorization Project](https://github.com/luzlloveras/nest--auth-project.git)
 
-- 💪🏻 I am training in JavaScript for the backend with **Node.js, Nest.js, Restful APIs, Auth & Security, Error Handling, Data validation, Unit testing, Sockets, Webhooks and events, Cache and performance, hosting and serveless.**
+- 🌱 I’m currently learning JavaScript. for the backend with **Node.js, Nest.js, Restful APIs, Auth & Security, Error Handling, Data validation, Unit testing, Sockets, Webhooks and events, Cache and performance, hosting and serveless.**
 
-- 🌱 I’m currently learning JavaScript.
-
-- 🤓 I’m looking to study more on Mongo DB.
-
-- 💬 Ask me about Art, Photography and Design. I really love it.
-
-- 📷 Some of my photography projects are available at [behance.net/luzlloveras](behance.net/luzlloveras)
+- 👀 I’m looking to study more on Mongo DB.
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/luzlloveras/**
 
 - 📫 How to reach me **luzlloveras7@gmail.com**
+
+- 💬 Ask me about Art, Photography and Design. I really love it.
+
+- 📷 Some of my photography projects are available at [behance.net/luzlloveras](behance.net/luzlloveras)
 
 - ⚡ Fun fact: I love cats but I am allergic to them 😿
 
