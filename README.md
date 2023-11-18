@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nest Authorization Project](https://github.com/luzlloveras/nest--auth-project.git)
 
-- 🌱 I’m learning JavaScript. for the backend with **Node.js, Nest.js, Restful APIs, Auth & Security, Error Handling, Data validation, Unit testing, Sockets, Webhooks and events, Cache and performance, hosting and serveless.**
+- 🌱 I’m learning JavaScript for the backend with **Node.js, Nest.js, Restful APIs, Auth & Security, Error Handling, Data validation, Unit testing, Sockets, Webhooks and events, Cache and performance, hosting and serveless.**
 
 - 👀 I’m looking to study more on Mongo DB.
 
