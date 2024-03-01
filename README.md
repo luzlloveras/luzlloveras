@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Luz Lloveras</h1>
-<br>
 <h3 align="center">A passionate SAP UX & Mobile Developer from Argentina</h3>
 
 
