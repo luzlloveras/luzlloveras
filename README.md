@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luz Lloveras</h1>
 <h3 align="center">A passionate SAP UX & Mobile Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Nest Authorization Project](https://github.com/luzlloveras/nest--auth-project.git)
-
-- 🌱 I’m learning JavaScript for the backend with **Node.js, Nest.js, Restful APIs, Auth & Security, Error Handling, Data validation, Unit testing, Sockets, Webhooks and events, Cache and performance, hosting and serveless.**
-
-- 👀 I’m looking to study more on Mongo DB.
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/luzlloveras/**
 
