@@ -13,16 +13,11 @@
 
 - 💬 Ask me about Art, Photography and Design. I really love it.
 
-- 📷 Some of my photography projects are available at [behance.net/luzlloveras](behance.net/luzlloveras)
-
 - ⚡ Fun fact: I love cats but I am allergic to them 😿
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luzlloveras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luzlloveras" height="30" width="40" /></a>
-<a href="https://www.behance.net/luzlloveras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="luzlloveras" height="30" width="40" /></a>
-<a href="https://twitter.com/humansnotdead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luz_lloveras" height="30" width="40" /></a>
-<a href="https://instagram.com/luzlloveras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luzlloveras" height="30" width="40" /></a>
 <a href="https://discord.gg/luzlloveras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luzlloveras" height="30" width="40" /></a>
 </p>
 
