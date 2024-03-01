@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luz Lloveras</h1>
+<br>
 <h3 align="center">A passionate SAP UX & Mobile Developer from Argentina</h3>
 
 
 
-<br><br><br><br>
+<br><br>
 - 📄 Know about my experiences **https://www.linkedin.com/in/luzlloveras/**
 
 - 📫 How to reach me **luzlloveras7@gmail.com**
