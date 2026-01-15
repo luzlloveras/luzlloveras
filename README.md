@@ -1,66 +1,30 @@
-<h1 align="center">Hi 👋, I'm Luz Lloveras</h1>
+Hi, I’m Luz.
 
-<h3 align="center">
-SAP BTP Developer · UX & Mobile · Cloud-Native Solutions<br/>
-Expanding into Modern Frontend & Full-Stack Development
-</h3>
+I’m a backend-focused developer working mainly with SAP CAP and Node.js, currently expanding into modern JavaScript and API-driven architectures.
 
----
+I enjoy building small, clear systems that solve concrete problems and are easy to understand, maintain, and extend.
 
-> SAP BTP Developer with strong enterprise experience, currently expanding into modern frontend and full-stack development outside the SAP ecosystem.  
-> Focused on product thinking, UX quality, and building real-world applications.
+## Now
+- Working with SAP CAP (Node.js) on service-oriented applications
+- Building backend APIs with Node.js and MongoDB
+- Exploring cleaner project structure and documentation for real-world use
 
----
+## Selected projects
+- **incident-tracker-sap-cap**  
+  Incident tracking service built with SAP CAP, focused on clear domain modeling and service separation.
 
-## 👩‍💻 Profile
+- **payment-tracker-sap-cap**  
+  Simple payment tracking backend using SAP CAP, designed to keep business logic explicit and readable.
 
-I design and build cloud-native applications with a strong focus on architecture, integration, and user experience.  
-My background is rooted in enterprise SAP environments, and I’m intentionally expanding my professional scope toward **modern frontend and full-stack development**, applying the same engineering discipline to product-oriented work.
+- **nest-authentication-service**  
+  Authentication service built with NestJS using JWT access and refresh tokens.
 
----
+- **mongo-node-api**  
+  Lightweight Node.js API using MongoDB, focused on clean structure and straightforward data access.
 
-## 🧠 Core Expertise (SAP & Enterprise)
+## What I care about
+- Clear code over clever abstractions
+- Small, understandable services
+- Documentation that explains intent, not tutorials
 
-- Cloud-native backend services with **SAP CAP (CDS, Node.js, OData / REST)**
-- Enterprise UX with **SAP Fiori / UI5**
-- Mobile applications using **SAP MDK**
-- Process automation with **SAP Build Process Automation**
-- Extensions and APIs with **ABAP Cloud (RAP)**
-- Integration with **S/4HANA** and external systems
-
-**Platforms & Tools**
-- SAP Business Technology Platform (BTP)
-- SAP HANA Cloud
-- SAP Business Application Studio
-- Git & GitHub · Postman
-
----
-
-## 🧭 Professional Expansion · Frontend / Full-Stack (Outside SAP)
-
-I’m expanding my skill set toward modern frontend and full-stack development, with a clear focus on **production-ready code**, **design systems**, and **performance**.
-
-### Current focus
-- ⚛️ **React & Next.js** (App Router, Server Components)
-- 🎨 **Tailwind CSS** (layout engineering, responsive design)
-- 🧠 **TypeScript** (component boundaries, typing strategies)
-- 🖼 **Image-heavy interfaces** (portfolios, aspect ratios, optimization)
-- 🚀 **Modern deployment workflows** (Vercel, CI/CD mindset)
-
-### Hands-on work
-- 📸 **Photography Portfolio (Next.js)**  
-  A real-world project focused on visual storytelling, clean navigation, and performance-oriented frontend architecture.  
-  Repository: `photography-portfolio`
-
----
-
-## 🎨 Perspective
-
-Photography and design strongly influence how I think about software: composition, hierarchy, and clarity are as important to me as clean code and solid architecture.
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: https://www.linkedin.com/in/luzlloveras/
-- 📬 Email: luzlloveras7@gmail.com
+I’m interested in backend or full-stack roles where code quality, ownership, and learning matter.
